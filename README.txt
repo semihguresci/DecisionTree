@@ -4,6 +4,3 @@ add elavuation set o evaluationSet.txt
 Just Run ID3.exe
 
 read read decision tree from rules.txt
-
-Semih Güreþçi
-N15220113
